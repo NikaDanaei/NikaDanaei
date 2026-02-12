@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Engineering student building AI, robotics, and full-stack applications. I like shipping structured, real-world projects — not just demos — with clean architecture and measurable impact. My current focus is AI systems, simulation environments, and modern web stacks.<br><br>🔭 Working on: AI finance tracker & AGV digital twin simulation  <br>🌱 Learning: Next.js, advanced ML, system design  <br>🤝 Open to: AI / robotics / full-stack collaborations  <br>💬 Ask me about: FastAPI, SQLModel, ROS2, backend design  <br>⚡ Fun fact: I treat every project like a product build<br>
+Computer Engineering student building AI, robotics, and full-stack applications. I like shipping structured, real-world projects — not just demos — with clean architecture and measurable impact. My current focus is AI systems, simulation environments, and robotics.<br><br>🔭 Working on: AI finance tracker & AGV digital twin simulation  <br>🌱 Learning: Next.js, advanced ML, system design  <br>🤝 Open to: AI / robotics / full-stack collaborations  <br>💬 Ask me about: SQLModel, ROS2, AI/ML  <br>⚡ Fun fact: I treat every project like a product build<br>
 
 
 ## 🌐 Socials:
