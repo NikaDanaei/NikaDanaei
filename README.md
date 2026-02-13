@@ -12,11 +12,5 @@ Computer Engineering student building AI, robotics, and full-stack applications.
 ![](https://nirzak-streak-stats.vercel.app/?user=NikaDanaei&theme=date_night&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NikaDanaei&theme=date_night&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=NikaDanaei&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/nikadanaei) 
-
-  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
